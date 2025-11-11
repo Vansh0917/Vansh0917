@@ -49,8 +49,8 @@ Comprehensive SoC design program exploring industry-standard methodologies and t
 ### 🤝 Connect With Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 Email: your-email@example.com
-- 🌐 Portfolio: [coming soon]
+- 📧 Email: vanshvaghela09@gmail.com
+
 
 ### 💬 Let's Collaborate!
 
