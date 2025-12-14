@@ -1,3 +1,11 @@
+## Pinned Repositories
+
+[![nasscom-vsd-soc-design-program](https://github-readme-stats.vercel.app/api/pin/?username=Vansh0917&repo=nasscom-vsd-soc-design-program&theme=dark)](https://github.com/Vansh0917/nasscom-vsd-soc-design-program)
+[![RISC-V-Reference-SoC-Tapeout-Program_VLSI_Week_2](https://github-readme-stats.vercel.app/api/pin/?username=Vansh0917&repo=RISC-V-Reference-SoC-Tapeout-Program_VLSI_Week_2&theme=dark)](https://github.com/Vansh0917/RISC-V-Reference-SoC-Tapeout-Program_VLSI_Week_2)
+[![zener-diode-tester](https://github-readme-stats.vercel.app/api/pin/?username=Vansh0917&repo=zener-diode-tester&theme=dark)](https://github.com/Vansh0917/zener-diode-tester)
+
+---
+
 # Vansh Vaghela
 
 Electronics & Communication Engineering student specializing in VLSI design, embedded systems, and digital hardware. Currently pursuing advanced coursework in semiconductor design and SoC development.
